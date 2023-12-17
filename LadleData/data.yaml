@@ -1,0 +1,6 @@
+train : G:/5th sem project/train
+val : G:/5th sem project/val
+
+nc : 2
+
+names : ["Steel Ladle","Hot metal"]
